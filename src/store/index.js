@@ -106,9 +106,6 @@ export const store = new Vuex.Store({
       SET_HEADER_INDEX(state) {
         state.page = 'index'
       },
-      SET_HEADER_INDEX(state) {
-        state.page = 'index'
-      },
       SET_HEADER_GROUP(state) {
         state.page = 'group'
       },
